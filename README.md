@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Anotacoes-Tarefas-Dia
 Aplicação desenvolvida em React para realizar anotações de tarefas do dia.
 =======
@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 91a1cd5 (06-09-2021 08:35)
